@@ -18,7 +18,7 @@ public class RegisterNewUserPOMtest extends BaseTest {
         RegisterAccountPage.typeOnInputPasswordFieldAndConfirmPassword("pass555");
         RegisterAccountPage.clickInCheckPrivacyPolicy();
         RegisterAccountPage.clickOnContinueButton();
-        //AccountSuccessPage.verifyRegistration();
+        AccountSuccessPage.verifyRegistration();
 
     }
 

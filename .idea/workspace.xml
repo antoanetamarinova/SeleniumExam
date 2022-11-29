@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="457d7fc1-1f66-4507-a8f3-46550704d3d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/pragmatic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AccountSuccessPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/RegisterAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ShopPragmaticHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegisterNewUserPOMtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/nonPageObjectModelTest/RegisterNewUserSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjectModelTest/base/BaseTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="457d7fc1-1f66-4507-a8f3-46550704d3d7" name="Changes" comment="commit AccountSuccessPage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/marin/IdeaProjects/Modul2/Homework7Framework"
+    "last_opened_file_path": "C:/Users/marin/OneDrive/Desktop"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -115,6 +97,21 @@
       <option name="presentableId" value="Default" />
       <updated>1669743278879</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit AccountSuccessPage">
+      <created>1669756760352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669756760352</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit AccountSuccessPage">
+      <created>1669756909729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669756909729</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +124,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit AccountSuccessPage" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit AccountSuccessPage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

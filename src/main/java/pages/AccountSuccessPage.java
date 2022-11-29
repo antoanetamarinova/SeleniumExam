@@ -14,7 +14,7 @@ public class AccountSuccessPage extends BasePage {
 
 
     static {
-        PageFactory.initElements(Browser.driver, RegisterAccountPage.class);
+        PageFactory.initElements(Browser.driver, AccountSuccessPage.class);
     }
 
     public static void verifyRegistration() {
